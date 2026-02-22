@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Kai 👋<br><br>🚀 Building Embedded Finance & Youth Employment Platforms  <br>💻 Learning Python & Backend Development  <br>📈 Interested in Fintech, Marketplaces & Automation  <br><br>---<br><br>## 🛠 Tech Stack<br>- Python<br>- Node.js<br>- Git & GitHub<br>- VS Code<br><br>---<br><br>## 📌 Current Projects<br>- Embedded Finance Marketplace (Kenya)<br>- Youth Employment Intelligence Platform<br><br>---<br><br>## 📊 GitHub Stats<br><!-- GitHub stats card here --><br><br>---<br><br>## 📫 Connect<br>- LinkedIn<br>- Twitter
+# Hi, I'm Bethwell Njiru 👋<br><br>🚀 Building Embedded Finance & Youth Employment Platforms  <br>💻 Learning Python & Backend Development  <br>📈 Interested in Fintech, Marketplaces & Automation  <br><br>---<br><br>## 🛠 Tech Stack<br>- Python<br>- Node.js<br>- Git & GitHub<br>- VS Code<br><br>---<br><br>## 📌 Current Projects<br>- Embedded Finance Marketplace (Kenya)<br>- Youth Employment Intelligence Platform<br><br>---<br><br>## 📊 GitHub Stats<br><!-- GitHub stats card here --><br><br>---<br><br>## 📫 Connect<br>- LinkedIn<br>- Twitter
 
 
 ## 🌐 Socials:
